@@ -15,7 +15,7 @@ git clone  <git lab template url> <project_name>
 - to run project
 In VS code console type: node.index.js
 
-#Task to do 
+# Task to do 
 
 - Callback functions and creating custom events using the events core module in Node. 
 - Steps To Do: 
@@ -30,15 +30,15 @@ Input Format For Custom Testing:
 The first line contains a string, input, which should be used to calculate multiples and log in output. 
 
 
-#Output 
+# Output 
 
-Sample Case 0:
-Sample Input For Custom Testing 100 1000 
-Sample Output Multiples of 100 1000 6500 
-Explanation Multiples of 100 are 100,200,300,......1000 and multiples of 1000 is 1000 in below and including 1000. Sum = (100+200+............1000) + 1000 Sum = 6500 
+- Sample Case 0:
+- Sample Input For Custom Testing 100 1000 
+- Sample Output Multiples of 100 1000 6500 
+- Explanation Multiples of 100 are 100,200,300,......1000 and multiples of 1000 is 1000 in below and including 1000. Sum = (100+200+............1000) + 1000 Sum = 6500 
 
-Sample Case 1 
-Sample Input For Custom Testing 500 1200 
-Sample Output Multiples of 500 1200 1500
+- Sample Case 1 
+- Sample Input For Custom Testing 500 1200 
+- Sample Output Multiples of 500 1200 1500
 
 
