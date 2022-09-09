@@ -45,5 +45,5 @@ The first line contains a string, input, which should be used to calculate multi
 #Here's what it looks like in action output. ( Wait for GIF )
 
 
-![Alt Text](https://github.com/hrkbrahmbhatt/WeatherApp/blob/master/giffy.gif)
+![Alt Text](https://github.com/hrkbrahmbhatt/Assignment3/blob/master/giffy.gif)
 
