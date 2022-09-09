@@ -1,4 +1,4 @@
-const EventEmitter = require("events");
+const EventEmitter = require("events"); // 1;st
 
 const readline = require("readline").createInterface({
   input: process.stdin, // show input on console
@@ -32,6 +32,7 @@ readline.question(
         }
       }
       // total multiple of both inputs
+
       let total = sum + sum1;
       console.log(`Multiples of ${n1} & ${n2} is ${total}`);
     };
