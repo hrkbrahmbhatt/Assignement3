@@ -1,7 +1,6 @@
 # Assignement3
 Callback and Events
-<<<<<<< HEAD
-=======
+
 
 
 # Pre-requisites
@@ -43,5 +42,8 @@ The first line contains a string, input, which should be used to calculate multi
 - Sample Input For Custom Testing 500 1200 
 - Sample Output Multiples of 500 1200 1500
 
+#Here's what it looks like in action output. ( Wait for GIF )
 
->>>>>>> cf4eca9731848d0194dd1cb158c280ae2ec93e1c
+
+![Alt Text](https://github.com/hrkbrahmbhatt/WeatherApp/blob/master/giffy.gif)
+
