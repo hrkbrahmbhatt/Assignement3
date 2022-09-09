@@ -12,8 +12,8 @@ Callback and Events
 git clone  <git lab template url> <project_name>
 ```
 
-- to run project
-In VS code console type: node.index.js
+- to run project in VS code console type
+- node index.js
 
 # Task to do 
 
